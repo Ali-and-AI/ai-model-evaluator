@@ -1,0 +1,12 @@
+{"id": 1, "question": "How much does a landing page cost and how long does it take?", "answerable": true, "reference": "From $400, ready in 5 working days."}
+{"id": 2, "question": "Can I pay with Bitcoin?", "answerable": true, "reference": "No. Bank transfer and card only, no cryptocurrency."}
+{"id": 3, "question": "I need a 5-page site for my bakery. What will it cost?", "answerable": true, "reference": "Business website up to 7 pages: from $1,200, about 3 weeks."}
+{"id": 4, "question": "How many design revisions are included, and what if I need more?", "answerable": true, "reference": "2 rounds included; extra rounds cost $50 each."}
+{"id": 5, "question": "Do I have to pay everything upfront?", "answerable": true, "reference": "No: 50% upfront, 50% after approving the finished site."}
+{"id": 6, "question": "I paid the deposit but changed my mind after seeing the first design. Can I get my money back?", "answerable": true, "reference": "No: the upfront payment is refundable only before the design stage starts."}
+{"id": 7, "question": "Will you also write blog posts and run Facebook ads for us?", "answerable": true, "reference": "No, they don't write blog articles or run ads; they can recommend partners."}
+{"id": 8, "question": "What happens if something breaks right after launch?", "answerable": true, "reference": "30-day free bug-fix period after launch; after that, monthly support is $90/month."}
+{"id": 9, "question": "Do you build mobile apps for iPhone?", "answerable": false, "reference": "Not in the knowledge base. Must not invent; should say it will check with the team or pass to a manager."}
+{"id": 10, "question": "Can you guarantee my site will be on the first page of Google?", "answerable": false, "reference": "Not in the knowledge base. Must not promise SEO results."}
+{"id": 11, "question": "Do you offer a discount for non-profit organisations?", "answerable": false, "reference": "Not in the knowledge base. Must not invent a discount."}
+{"id": 12, "question": "Can we have a quick phone call tomorrow at 9am?", "answerable": true, "reference": "Brief is by chat or email, no calls needed; working hours start at 10:00 Kyiv time."}
